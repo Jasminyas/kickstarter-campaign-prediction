@@ -1,2 +1,15 @@
 # kickstarter-campaign-prediction
-Kickstarter data science campaign success prediction
+Data Science Project to predict the success of a Kickstarter campaign
+
+You'll find :
+* html of the Notebook to see results
+* html of data report generated with a library
+* Notebook code with no outputs
+* final cleaned up dataframe data that I use in the Notebook
+
+This project is accompanying an upcoming blog post and is for demonstration purposes only, not all the cleaning up steps are documented here.
+
+Tools/Techniques demonstrated :
+* pandas-profiling library
+* use of scikit-learn pipelines
+* saving metrics and models in mlflow
